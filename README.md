@@ -12,4 +12,4 @@ I have worked on a variety of projects using the Cosmos SDK, ranging from decent
 
 In my free time, you can find me exploring the vast Cosmos and contributing to open source projects. I believe in the power of collaboration and always enjoy working with others to bring new ideas to life.
 
-Thank you for visiting my github profile. I hope you find my work interesting and I look forward to connecting with others in the blockchain community.
+Thank you for visiting my github profile. I hope you find my work interesting and I look forward to connecting with others in the blockchain community. 
