@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Elys Network
 - 🌱 I’m currently learning Rust/CosmWasm
 - 👯 I’m looking to collaborate on inter-chain dApps
+- :mailbox: How to reach me: `Cosmic Vagabond#9873` via discord
 - ⚡ Fun fact: The first decentralized application (dApp) was a game called "CryptoKitties" that was built on the Ethereum blockchain in 2015.
 
 Welcome to my portfolio! I go by the name of Cosmic Vagabond and I am a decentralized systems engineer with a focus on Cosmos SDK. I have a passion for building applications that promote user sovereignty and security on the blockchain.
