@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Elys Network
+- 🔭 I’m currently working on Zignaly and previously worked on Elys Network
 - 🌱 I’m currently learning Rust/CosmWasm
 - 👯 I’m looking to collaborate on inter-chain dApps
 - :mailbox: How to reach me: `Cosmic Vagabond#9873` via discord
